@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitecontent>
+  <menu>
+    <menu_item>
+      <menu_item_title>Home</menu_item_title>
+      <menu_item_path>home</menu_item_path>
+      <menu_item_slug>home</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>About Us</menu_item_title>
+      <menu_item_path>about us</menu_item_path>
+      <menu_item_slug>about-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Gallery</menu_item_title>
+      <menu_item_path>gallery</menu_item_path>
+      <menu_item_slug>new-page</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Contact Us</menu_item_title>
+      <menu_item_path>contact us</menu_item_path>
+      <menu_item_slug>contact-us</menu_item_slug>
+      <menu_item_status>1</menu_item_status>
+    </menu_item>
+    <menu_item>
+      <menu_item_title>Blog-wp</menu_item_title>
+      <menu_item_path>blog</menu_item_path>
+      <menu_item_slug>blog-wp</menu_item_slug>
+      <menu_item_status>0</menu_item_status>
+    </menu_item>
+  </menu>
+  <pages>
+    <content>
+      <meta_ID>tt_page1</meta_ID>
+      <page_title>Home</page_title>
+      <alias>home</alias>
+      <page_name>Home</page_name>
+      <page_header_id>home</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>12/30/2020 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_home_html_row0 row" >
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:1.49em;"><span style="font-weight:700;font-size:3.429em;">Our Services</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(52,52,52,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p><p style="line-height:1.97em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-lg btn-primary">VIEW MORE</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:450px;max-width:350px;" src="~base_path~sites/default/files/inline-images/15.jpg" /></span><p style="margin:10px 0px 5px 0px;text-align:Left;"><span style="font-weight:700;font-size:1.571em;">Full Sleeve Tattoos</span></p></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:450px;max-width:350px;" src="~base_path~sites/default/files/inline-images/16.jpg" /></span><p style="margin:10px 0px 5px 0px;text-align:Left;"><span style="font-weight:700;font-size:1.571em;">Simple Tattoos</span></p></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-3 col-lg-3 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:450px;max-width:350px;" src="~base_path~sites/default/files/inline-images/17.jpg" /></span><p style="margin:10px 0px 5px 0px;text-align:Left;"><span style="font-weight:700;font-size:1.571em;">Proffesional Tattoos</span></p></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row1 row" >
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:533px;max-width:800px;" src="~base_path~sites/default/files/inline-images/18.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-6 col-lg-6 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="line-height:3.06em;"><span style="font-family:'Arial';font-weight:700;font-size:2em;color:rgba(255,255,255,1);">Tattoo Art Studio has been offering top quality work since 1965. All artists are trained in proper and safe tattooing to ensure safety for all of our clients.</span></p><p style="line-height:3.06em;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-sm btn-success">VIEW GALLERY</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;line-height:1.57em;"><span style="font-weight:700;font-size:3.429em;">Our Tattoo Artists</span></p><p style="text-align:Center;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(52,52,52,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column21">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/19.jpg" /></span></span><span style="font-family:'Teko';font-weight:700;font-size:1.714em;">Wayne Aguilar</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column22">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 10px 0px;"><span style="line-height:1.57em;"><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/20.jpg" /></span></span><span style="font-family:'Teko';font-weight:700;font-size:1.714em;">Gloria Parker</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column23">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 10px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/21.jpg" /></span></span><span style="font-family:'Teko';font-weight:700;font-size:1.714em;">Ruth Edwards</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_home_html_row3 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_home_html_column30">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-weight:700;font-size:3.429em;">Contact for Updates on all our Future Tattoos</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, <span style="color:rgba(52,52,52,1);">tincidunt nec, gravida vehicula, nisl.</span></p><p style="margin:20px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">CONTACT US</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page2</meta_ID>
+      <page_title>About Us</page_title>
+      <alias>about-us</alias>
+      <page_name>About Us</page_name>
+      <page_header_id>about us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>12/30/2020 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_about-us_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span style="font-weight:600;font-size:3.429em;color:rgba(255,255,255,1);">Tattoos have a power and magic all their own. They decorate the body but they also enhance the soul.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;font-family:'Teko';"><span style="font-family:'Teko';font-weight:700;color:rgba(27,27,27,1);">Our Tattoo Artists</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column11">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/23.jpg" /></span></span></p><p style="text-align:Center;"><span style="font-family:'Teko';font-weight:700;font-size:1.714em;">Wayne Aguilar</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column12">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/24.jpg" /></span></span></p><p style="margin:5px 0px 5px 0px;text-align:Center;font-family:'Arial';"><span style="font-family:'Teko';font-weight:700;color:rgba(27,27,27,1);">Gloria Parker</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column13">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 20px 0px;"><span><img class="ttr_uniform" style="max-height:600px;max-width:400px;" src="~base_path~sites/default/files/inline-images/25.jpg" /></span></span></p><p style="text-align:Center;"><span style="font-family:'Teko';font-weight:700;font-size:1.714em;color:rgba(27,27,27,1);">Ruth Edwards</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_about-us_html_row2 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_about-us_html_column20">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:5px 0px 5px 0px;text-align:Center;font-family:'Teko';"><span style="font-family:'Teko';font-weight:700;color:rgba(27,27,27,1);">Contact for Updates on all our Future Tattoos</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span style="color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p><p style="margin:5px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Contact us</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+    <content>
+      <meta_ID>tt_page3</meta_ID>
+      <page_title>Contact Us</page_title>
+      <alias>contact-us</alias>
+      <page_name>Contact Us</page_name>
+      <page_header_id>Contact Us</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>12/30/2020 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_contact-us_html_row0 row" >
+<div class="post_column col-xl-5 col-lg-5 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact-us_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="margin:2px 0px 0px 0px;"><span style="font-weight:600;font-size:2.571em;">Address</span></p><p style="margin:20px 0px 0px 0px;line-height:1.97em;"><span style="font-family:'Arial';font-size:1em;color:rgba(78,78,78,1);">123 ABC Ave Street View #456 XYZ</span></p><p style="margin:2px 0px 0px 0px;line-height:1.97em;"><span style="font-family:'Arial';font-size:1em;color:rgba(78,78,78,1);">New York City,</span></p><p style="margin:2px 0px 0px 0px;line-height:1.97em;"><span style="font-family:'Arial';font-size:1em;color:rgba(78,78,78,1);">NY 100005, USA</span></p><p style="margin:2px 0px 0px 0px;line-height:1.97em;"><span style="font-family:'Arial';font-weight:700;font-size:1em;color:rgba(78,78,78,1);">PHONES:</span><span style="font-family:'Arial';font-size:1em;color:rgba(78,78,78,1);"> (800) 123-4567-890; (800) 123-0046-7890</span></p><p style="margin:2px 0px 0px 0px;line-height:1.97em;"><span style="font-family:'Arial';font-weight:700;font-size:1em;color:rgba(78,78,78,1);">WE ARE OPEN:</span><span style="font-family:'Arial';font-size:1em;color:rgba(78,78,78,1);"> Mon-Fri: 10 am - 8 pm</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-7 col-lg-7 col-md-5 col-sm-12 col-xs-12 col-12">
+<div class="ttr_contact-us_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p><span style="font-weight:600;font-size:2.571em;color:rgba(27,27,27,1);">Let's Get in Touch </span></p><p style="margin:20px 0px 5px 0px;"><form id="ContactForm0" class="form-horizontal" role="form" method="post" action="#" /></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+      <contactforms><contactform id="b7ba3304-b4b1-4c7e-b6a8-06d7af284f6c" BrowseButtonVisibility="Visible" msg_name="Message"><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Name</ListViewItem><ListViewItem ContentStringFormat="Email" HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" Tag="Mandate" x:Uid="Email" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Email</ListViewItem><ListViewItem HorizontalContentAlignment="Left" VerticalContentAlignment="Center" IsTabStop="False" x:Uid="NoValidation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">Subject</ListViewItem></contactform></contactforms>
+    </content>
+    <content>
+      <meta_ID>tt_page4</meta_ID>
+      <page_title>Gallery</page_title>
+      <alias>new-page</alias>
+      <page_name>Gallery</page_name>
+      <page_header_id>new-page</page_header_id>
+      <state>1</state>
+      <featured>1</featured>
+      <created>12/30/2020 00:00:00</created>
+      <created_by_alias>SuperUser</created_by_alias>
+      <page_title_visibility>false</page_title_visibility>
+      <introtext><![CDATA[<div class="ttr_new-page_html_row0 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column00">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:2px 0px 0px 0px;text-align:Center;line-height:0.73em;"><span style="font-weight:600;font-size:1.6em;color:rgba(27,27,27,1);">Our Work Gallery</span></h2><p style="margin:2px 0px 0px 8px;text-align:Center;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(105,105,105,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi imperdiet at, tincidunt nec.</span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column01">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/26.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column02">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/27.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column03">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/28.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column04">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/29.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column05">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/30.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+<div class="post_column col-xl-4 col-lg-4 col-md-6 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column06">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><p style="text-align:Center;"><span class="ttr_image" style="float:none;display:block;overflow:hidden;margin:0px 0px 0px 0px;"><span><img class="ttr_uniform" style="max-height:400px;max-width:600px;" src="~base_path~sites/default/files/inline-images/31.jpg" /></span></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+<div class="ttr_new-page_html_row1 row" >
+<div class="post_column col-xl-12 col-lg-12 col-md-12 col-sm-12 col-xs-12 col-12">
+<div class="ttr_new-page_html_column10">
+<div class="margin_collapsetop"></div>
+<div class="html_content"><h2 style="margin:5px 0px 5px 0px;text-align:Center;font-family:'Arial';"><span style="font-family:'Teko';font-weight:600;">Contact for Updates on all our Future Tattoos</span></h2><p style="margin:5px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span style="color:rgba(78,78,78,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p><p style="margin:10px 0px 5px 0px;text-align:Center;line-height:1.97em;font-family:'Arial';"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">Contact Us</a></span></p></div>
+<div class="margin_collapsetop"></div>
+<div style="clear:both;width:0px;"></div>
+</div>
+</div>
+<div class=" visible-lg-block d-xl-block d-lg-block visible-md-block d-md-block visible-sm-block d-sm-block visible-xs-block d-block" style="clear: both;width:0px;"></div>
+</div>
+]]></introtext>
+    </content>
+  </pages>
+  <sidebars />
+  <footers>
+    <footer name="footercellcolumn1">
+      <block name="footercellcolumn0" tt_blockID="footer_cell0" title="footertext1">
+        <content><![CDATA[<div class="html_content"><p><span class="ttr_image" style="float:Left;overflow:hidden;margin:10px 10px 10px 10px;"><span><img class="ttr_uniform" style="max-height:60px;max-width:141px;" src="~base_path~sites/default/files/inline-images/8.png" /></span></span></p><br /><br /><p style="line-height:1.97em;"><br style="color:rgba(203,203,203,1);" /></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Lorem ipsum dolor sit amet, test link adipiscing elit.Nullam dignissim convallis est.Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl.</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact-us</widget_page>
+          <widget_page>new-page</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn2">
+      <block name="footercellcolumn1" tt_blockID="footer_cell1" title="footertext2">
+        <content><![CDATA[<div class="html_content"><p style="margin:0px 0px 0px 0px;line-height:1.49em;"><span style="font-weight:500;font-size:1.571em;color:rgba(255,255,255,1);">Services</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Full Sleeve Tattoos</span></p><p style="margin:0px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Simple Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Profesional Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Back Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Front Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Design Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Quality Tattoos</span></p><p style="line-height:1.97em;"><span style="font-family:'Arial';color:rgba(225,225,225,1);">Eyes Tattoos</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact-us</widget_page>
+          <widget_page>new-page</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn3">
+      <block name="footercellcolumn2" tt_blockID="footer_cell2" title="footertext3">
+        <content><![CDATA[<div class="html_content"><p><span style="font-size:1.571em;color:rgba(255,255,255,1);">Working Days</span></p><p style="margin:20px 0px 5px 0px;line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Monday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Tuesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Wednesday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family:'Arial';color:rgba(203,203,203,1);"> </span><span style="font-family:'Arial';color:rgba(203,203,203,1);">10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Thursday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family:'Arial';color:rgba(203,203,203,1);"> </span><span style="font-family:'Arial';color:rgba(203,203,203,1);">&nbsp;&nbsp;10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Friday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Saturday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 10.00 - 18.00</span></p><p style="line-height:2.47em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Sunday&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="font-family:'Arial';color:rgba(47,254,254,1);">Closed </span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact-us</widget_page>
+          <widget_page>new-page</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+    <footer name="footercellcolumn4">
+      <block name="footercellcolumn3" tt_blockID="footer_cell3" title="footertext4">
+        <content><![CDATA[<div class="html_content"><p><span style="font-weight:600;font-size:1.571em;color:rgba(255,255,255,1);">Follow Us</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Facebook</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Twitter</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Linkedin</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Google Plus</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Pinterest</span></p><p style="margin:20px 0px 5px 0px;line-height:1.97em;"><span style="font-family:'Arial';color:rgba(203,203,203,1);">Instagram</span></p></div>]]></content>
+        <widget_pages>
+          <widget_page>home</widget_page>
+          <widget_page>about-us</widget_page>
+          <widget_page>contact-us</widget_page>
+          <widget_page>new-page</widget_page>
+        </widget_pages>
+      </block>
+    </footer>
+  </footers>
+  <Shapes>
+    <headershapes />
+    <slideshowshapes>
+      <slideshow name="slideshowshape00">
+        <block name="slideshowshape00" tt_blockID="slideshow_cell00" title="slideshow_block00">
+          <content><![CDATA[<div class="html_content"><p style="text-align:Center;line-height:6.16em;"><span style="font-weight:700;font-size:4.286em;color:rgba(255,255,255,1);">Tattoo Art has been offering top quality work</span></p><p style="text-align:Center;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">VIEW MORE</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact-us</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape10">
+        <block name="slideshowshape10" tt_blockID="slideshow_cell10" title="slideshow_block10">
+          <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 30px 0px;text-align:Center;line-height:4.36em;"><span style="font-family:'Teko','Teko';font-weight:600;font-size:4.286em;color:rgba(255,255,255,1);">Tattoo Art has been offering top quality work</span></p><p style="text-align:Center;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">VIEW MORE</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact-us</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+      <slideshow name="slideshowshape20">
+        <block name="slideshowshape20" tt_blockID="slideshow_cell20" title="slideshow_block20">
+          <content><![CDATA[<div class="html_content"><p style="margin:5px 0px 30px 0px;text-align:Center;"><span style="font-weight:500;font-size:4.286em;color:rgba(255,255,255,1);">Tattoo Art has been offering top quality work</span></p><p style="text-align:Center;"><span><a href="http://templatetoaster.com" target="_self" class="btn btn-md btn-default">VIEW MORE</a></span></p></div>]]></content>
+          <widget_pages>
+            <widget_page>home</widget_page>
+            <widget_page>about-us</widget_page>
+            <widget_page>contact-us</widget_page>
+            <widget_page>new-page</widget_page>
+            <widget_page>blog-wp</widget_page>
+          </widget_pages>
+        </block>
+      </slideshow>
+    </slideshowshapes>
+    <menushapes />
+    <footershapes />
+  </Shapes>
+</sitecontent>
